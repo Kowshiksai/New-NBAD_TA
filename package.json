@@ -1,0 +1,23 @@
+{
+  "name": "new-nbad_ta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kowshiksai/New-NBAD_TA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kowshiksai/New-NBAD_TA/issues"
+  },
+  "homepage": "https://github.com/Kowshiksai/New-NBAD_TA#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
