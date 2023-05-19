@@ -1,22 +1,37 @@
-.container {
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
     text-align: center;
-    margin-top: 100px;
   }
   
-  h1 {
-    color: #333;
+  h2 {
+    margin-top: 10px;
   }
   
-  p {
-    font-size: 24px;
-    color: #666;
+  h3{
+    margin-top: 10px;
+  }
+  
+  img {
+    margin-top: 15%;
+  }
+
+  #randomNumber {
+    display: inline-block;
+    margin-top: 10px;
   }
   
   button {
+    margin-top: 10px;
+    font-size: 18px;
     padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
     border: none;
-    cursor: pointer;
   }
   
+.new {
+    display:inline-block;
+  }
